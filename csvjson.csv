@@ -1,0 +1,2 @@
+﻿modelInputs,modelID,dataType,paramName,definitionType,maxValue,minValue,paramDefaultSource,structType,parameterinfo,paramaterCategory,parameterUnit,parameterLabel,language,parameterDescription,paraminfo,paramCategory,paramUnit,paramLabel,lang,paramDescription,paramDefaultValue,paramValue
+999,double,StartYear,user,2069,2020,"""""",scalar,.,.,General,year,Starting Year,en-us,Starting year for simulation run,.,General,año,Año Inicial,es-mx,Año Inicial para la ejecucion del modelo,2020,2020
